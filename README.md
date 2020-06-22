@@ -25,6 +25,10 @@ Build a Playbook for IOS XE commands
 
 Using NETCONF in Ansible
 
+Build a Playbook for upgrade on IOS XE switches
+
+Conclusion
+
 
 ## Ansible 
 
